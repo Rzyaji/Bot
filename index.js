@@ -3,8 +3,8 @@
 * (Scriptnya Aris187 ID).
 */
 const BotName = 'Rybot'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/_sadboy.ig'; // Nama Instagramlu cok
-const whatsapplu = 'Wa.me/+6285722553839'; // Nomor whatsapplu cok
+const instagramlu = '@radya ajisa'; // Nama Instagramlu cok
+const whatsapplu = 'Wa.me/+6282147334265'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://www.youtube.com/'; // OFFICIAL GRUP LU 2
